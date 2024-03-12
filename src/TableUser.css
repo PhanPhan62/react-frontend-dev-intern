@@ -1,0 +1,17 @@
+.sort-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sort-header i {
+  padding: 2px;
+  cursor: pointer;
+}
+.group-btns{
+  display: flex;
+  gap: 10px;
+}
+.group-btns i{
+  padding: 5px;
+}
